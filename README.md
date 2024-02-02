@@ -2,7 +2,7 @@
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/badiamba/github-actions/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/badiamba/github-actions/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
 
 
 Copyleft by Badiamba 2024.
